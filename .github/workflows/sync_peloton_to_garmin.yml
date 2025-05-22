@@ -1,6 +1,6 @@
 # This is a workflow that will automatically sync your Peloton rides with Garmin
 
-name: 🔄 Sync Workflow
+name: 🔄 Sync Peloton to Garmin
 
 # Controls when the action will run.
 on:
